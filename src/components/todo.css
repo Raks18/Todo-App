@@ -1,0 +1,13 @@
+.main-div {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.todo-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 575px;
+    margin-right: 550px;
+}
+
